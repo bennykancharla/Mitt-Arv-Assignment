@@ -1,0 +1,26 @@
+.list-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    background-color: #95b4e3;
+    padding: 15PX;
+    border-radius: 10px;
+    box-shadow: #090909 0px 16px 16px 16px;
+    margin: 25px;
+}
+
+
+.recipe-image{
+ width: 100%;
+}
+
+.link-item{
+    text-decoration: none;
+}
+
+.recipe-heading{
+    color: #073384;
+    text-align: center;
+}

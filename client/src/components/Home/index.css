@@ -1,0 +1,28 @@
+
+
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    background-color: #030a3f;
+
+}
+
+.home-heading{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.recipe-list-container{
+    width: 90%;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 70%;
+    overflow: auto;
+}
